@@ -758,7 +758,7 @@ avakai
 avaunts
 avarice
 bavardages
-metavauxities
+metavauxites
 casava
 bhavacakras
 autocleavages
@@ -1237,7 +1237,7 @@ execute
 hopefully
 synergistically
 daddy
-presidentialy
+presidentially
 include
 ossicles
 intelligence
@@ -1786,7 +1786,7 @@ traditionally
 cardioencephalomyopathies
 agreeing
 expressionlessnesses
-blepharokeratoconjunctivities
+blepharokeratoconjunctivitises
 palming
 boston
 subcompartmentalizations
@@ -2200,3 +2200,4 @@ bowdlerisation
 admin
 curly
 villa
+china
