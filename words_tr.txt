@@ -58,7 +58,7 @@ fotoğrafçılığından
 düdüklü tencere
 kakofoni
 manastır
-temerrüt faızı
+temerrüt faizi
 incelemek
 harıltı
 kuransız
@@ -335,7 +335,7 @@ soba
 yiyecek
 yinelememek
 mücver
-ektirmeek
+ektirmek
 ellememek
 vakkas
 tezcan
@@ -440,7 +440,7 @@ bükreş
 il
 ahlamak
 taş
-ballandırmk
+ballandırmak
 kuku
 patlangaç
 tan
@@ -609,7 +609,6 @@ falcı
 gel
 kesinti
 üstlenmek
-hıcıv
 yaktırma
 aşılamak
 görkem
@@ -1163,8 +1162,8 @@ cazipleşme
 ayıplayıcı
 ayıplandık
 cevaplayan
-dıplomatık
-dıplomasız
+diplomatik
+diplomasız
 kam
 kama
 kamp
@@ -1325,7 +1324,7 @@ yüzgöz
 açgözlü
 açıkgöz
 göz göz
-bır göz
+bir göz
 göz ucu
 gözenek
 gözdağı
@@ -1340,7 +1339,7 @@ gözetlen
 gözlenme
 gözetimci
 gözlemeci
-göz memesı
+göz memesi
 gözetlemek
 eşit
 beşik
@@ -1414,7 +1413,7 @@ bürünmez
 başeğmez
 bölünmez
 bükülmez
-değışmez
+değişmez
 bilinmez
 delirmez
 dönülmez
@@ -1539,7 +1538,6 @@ kol bağı
 apse
 cips
 cipsi
-eips
 hapse
 hepsi
 ayıpsı
@@ -1613,7 +1611,7 @@ fırsat
 ruhsat
 satürn
 aksatan
-ıktısat
+iktisat
 aksatma
 anımsat
 satacak
@@ -1624,7 +1622,7 @@ aksatıcı
 aksatmak
 aksatmaz
 fırsatçı
-satanızm
+satanizm
 satanist
 bağda
 bağcık
@@ -1685,13 +1683,12 @@ oynatma
 pı
 pırt
 yapı
-pıton
+piton
 yapıcı
 yapılı
 çırpın
-aspırın
-jüpıter
-kelepır
+jüpiter
+kelepir
 pırzola
 pısırık
 yapışamama
@@ -1724,7 +1721,7 @@ utanıp
 boşanıp
 kanırma
 kanıtla
-organık
+organik
 koyu
 oyul
 oyun
@@ -1820,8 +1817,8 @@ azıtma
 azıver
 azımet
 azımlı
-gazıno
-cazıbe
+gazino
+cazibe
 elazığ
 azışma
 azınlık
@@ -1862,7 +1859,6 @@ uzun
 uzuv
 buzul
 huzur
-fuzulı
 fuzuli
 kuzucu
 upuzun
@@ -1872,7 +1868,7 @@ buzullu
 kuzucuk
 huzurcuk
 huzurevi
-kuzu etı
+kuzu eti
 ufkunuzu
 ufkumuzu
 çoğumuzu
@@ -1981,7 +1977,6 @@ banket
 basket
 anketsiz
 anketçik
-balıketı
 balıketi
 basketli
 basketçi
@@ -1996,16 +1991,13 @@ misket
 etiketle
 ketçaplı
 belge
-bılge
-bölge
 bilge
+bölge
 gölge
 bilgen
 delgeç
 gelgeç
-sılgeç
 silgeç
-belgecı
 belgeci
 belgele
 belgeli
@@ -2074,14 +2066,13 @@ külleyip
 küsmeyip
 kitleyip
 evre
-cevre
+çevre
 cevri
 devre
-devrı
 devri
 evrak
 evren
-cevrim
+çevrim
 devran
 devrek
 devren
@@ -2250,20 +2241,19 @@ kaşıyarak
 taşıyarak
 taşıyınca
 taşıyacağı
-adlıye
-evlıya
-malıye
+adliye
+evliya
+maliye
 aklıyor
 ağlıyor
-naklıye
-baklıyat
-tahlıye
+nakliye
+bakliyat
+tahliye
 carlıyor
 cızlıyor
 damlıyor
 darlıyor
 fırlıyor
-faalıyet
 kurt
 murt
 yurt
@@ -2307,15 +2297,15 @@ algıla
 algılı
 bıngıl
 dıngıl
-ezgılı
-ılgılı
+ezgili
+ilgili
 zıngıl
 çıngıl
 algılan
-gergılı
+gergili
 algılat
-belgılı
-bılgılı
+belgili
+bilgili
 saygılar
 salgılama
 çalgılığı
@@ -2597,17 +2587,17 @@ bölünebil
 üşenebil
 binebilen
 edinebilme
-ekolojı
-bıyolojı
-nörolojı
-lojıstık
-onkolojı
-arkeolojı
-sosyolojı
-teknolojı
+ekoloji
+biyoloji
+nöroloji
+lojistik
+onkoloji
+arkeoloji
+sosyoloji
+teknoloji
 emek
 emel
-emır
+emir
 emmi
 emin
 emip
@@ -2622,7 +2612,7 @@ emredici
 emretmek
 emrullah
 emrivaki
-emzırmek
+emzirmek
 yıka
 yıkan
 yıkım
@@ -2663,12 +2653,9 @@ cukka
 cumba
 cunda
 cumhur
-cumayerı
 cumayeri
-cumartesı
 cumartesi
-cumhurıyet
-cumhur reısı
+cumhur reisi
 cumhurbaşkan
 cumhurbaşkanı
 cumhuriyetçi
@@ -2697,17 +2684,15 @@ güneşlik
 bitmişlik
 genişliği
 şık
-şıfa
-şıke
-şışe
-şıfre
-şışko
-şışme
-şıddet
-şırın
-şımşek
+şifa
+şike
+şişe
+şifre
+şişko
+şişme
+şiddet
 şırnak
-şıfrelı
+şifreli
 usul
 usanma
 usandık
@@ -2732,32 +2717,26 @@ erebilmek
 kene
 kenan
 kenar
-kendı
 kendi
 kenarcı
 kenarlı
 kenevir
-kenevır
 kenarlık
-kendınce
 kendince
 kenar semt
-mıde
+mide
 mıcır
-mıyav
-mılıtan
+miyav
 militan
-mınıbüs
 minibüs
-mıkropsuz
-mıllettaş
-mılyarder
-mılyarlık
-mılyonluk
-mımarbaşı
+mikropsuz
+millettaş
+milyarder
+milyarlık
+milyonluk
+mimarbaşı
 uruguay
 uruguaylı
-endışe
 endişe
 endeks
 ender
@@ -2765,17 +2744,15 @@ endoskop
 endişesiz
 endişecilik
 endekslendik
-ıkaz
-ıkna
-ıkon
-ıklım
-ıkbal
-ıkıleme
-ıkıncıl
+ikaz
+ikna
+ikon
+ikbal
+ikileme
+ikincil
 ikiyüzlü
-ızleme
-ızlenme
-ızletme
+izleme
+izletme
 ılıca
 ılımsız
 ılıklaşma
@@ -2793,14 +2770,14 @@ katlama
 önay
 öncü
 önem
-öncelık
+öncelik
 ön kayıt
 ön koşul
 ön proje
 ön rapor
-ön seçım
+ön seçim
 öngörmek
-ön lısans
+ön lisans
 öncelenen
 öncelikli
 öncelikle
@@ -2813,18 +2790,17 @@ yorulan
 yormuyor
 yorularak
 yoruldukça
-çılek
-çıllı
+çilek
+çilli
 çılgın
-çıl-çıl
+çıl çıl
 çıldıran
 çıldırdık
 çıldırdığım
-ırtıbatlı
-ırtıbatsız
-ırtıbatsızlık
-ırtıfak-hakkı
-ıdıl
+irtibatlı
+irtibatsız
+irtibatsızlık
+irtifak hakkı
 aldırış
 ödeyeceği
 bulaştırabilmek
@@ -2917,3 +2893,5 @@ dadaizm
 koku
 aklanmak
 dediğim
+alçı
+yağmur
